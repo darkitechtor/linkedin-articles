@@ -6,4 +6,4 @@
 4. Automated **Obsidian** Vault backups to **GitHub** with **n8n** #TODO
 5. Automated **Obsidian** Vault backups to **GitHub** with **Airflow** #TODO
 
-[Back to README](/Linkedin%20Articles_README.md)
+[Back to README](/README.md)
