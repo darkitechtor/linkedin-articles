@@ -20,6 +20,7 @@ Use the table of content on this page to get to the code you're interested in.
 ## Articles
 
 1. [Automated **Obsidian** Vault backups to **GitHub**](automated-obsidian-vault-backups-to-github/main-page.md)
+2. [Automatically generated documentation for **Azure Data Factory (ADF)** pipelines](automatically-generated-documentation-for-adf-pipelines/main-page.md)
 
 ## Contributors
 
