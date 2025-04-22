@@ -19,7 +19,7 @@ Use the table of content on this page to get to the code you're interested in.
 
 ## Articles
 
-1. [Automated **Obsidian** Vault backups to **GitHub**](automated-obsidian-vault-backups-to-github/main_page.md)
+1. [Automated **Obsidian** Vault backups to **GitHub**](automated-obsidian-vault-backups-to-github/main-page.md)
 
 ## Contributors
 

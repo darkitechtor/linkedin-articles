@@ -32,4 +32,4 @@
 
    3. Save it, confirm, and do a test run. I recommend to have some uncommitted changes before the testing, otherwise the test can't be decided as "full".
 
-[Back to main page](/automated-obsidian-vault-backups-to-github/main_page.md)
+[Back to main page](/automated-obsidian-vault-backups-to-github/main-page.md)

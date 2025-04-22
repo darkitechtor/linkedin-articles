@@ -51,4 +51,4 @@
 
     After that you will be able to push to **GitHub** without using your password/token.
 
-[Back to main page](/automated-obsidian-vault-backups-to-github/main_page.md)
+[Back to main page](/automated-obsidian-vault-backups-to-github/main-page.md)
